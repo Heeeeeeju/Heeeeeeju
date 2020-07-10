@@ -1,4 +1,10 @@
-### Hi there 👋
+### Game Developer
+- Single Console Game Developer
+
+### Interest
+- PC & Console
+- Single Player
+- Non Competitive
 
 <!--
 **Heeeeeeju/Heeeeeeju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
